@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongAppData", "SongAppData\SongAppData.csproj", "{BC7B3B85-781C-4EDC-9F3C-4B830E61ED09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongAppDataAccess", "SongAppDataAccess\SongAppDataAccess.csproj", "{2D4A39D7-5C11-46CC-8D24-3DB22ADE2494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC7B3B85-781C-4EDC-9F3C-4B830E61ED09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7B3B85-781C-4EDC-9F3C-4B830E61ED09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7B3B85-781C-4EDC-9F3C-4B830E61ED09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7B3B85-781C-4EDC-9F3C-4B830E61ED09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D4A39D7-5C11-46CC-8D24-3DB22ADE2494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4A39D7-5C11-46CC-8D24-3DB22ADE2494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4A39D7-5C11-46CC-8D24-3DB22ADE2494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4A39D7-5C11-46CC-8D24-3DB22ADE2494}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7129C959-6F07-4634-9AEA-146162CD0227}
+	EndGlobalSection
+EndGlobal
